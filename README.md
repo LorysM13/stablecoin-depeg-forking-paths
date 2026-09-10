@@ -12,6 +12,7 @@ Nous y évaluons la sensibilité de l'effet de contagion entre les épisodes de 
 ```
 ├── python/
 │   ├── depeg_algo_forking_paths.py   # Génération des 216 chemins et détection des dépegs
+│   ├── data_fetcher_kraken.py   # Script de récupération de données sur l'API de Kraken
 │   └── README.md
 └── R/
     ├── <script_R>.R                   # Estimation de l'effet sur chaque chemin et agrégation
