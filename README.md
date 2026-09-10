@@ -17,6 +17,7 @@ Nous y évaluons la sensibilité de l'effet de contagion entre les épisodes de 
 └── R/
     ├── <script_R>.R                   # Estimation de l'effet sur chaque chemin et agrégation
     └── README.md
+└── Results/
 ```
  
 ## Enchaînement des scripts
